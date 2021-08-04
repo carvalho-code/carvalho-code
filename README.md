@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carvalho-code&label=Profile%20views&color=0e75b6&style=flat" alt="carvalho-code" /> </p>
 
-- 🌱 Atualmente Estou Aprendendo **React**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
 
 - 👯 Meu último projeto foi no NLW [letmeask](https://github.com/carvalho-code/letmeask/tree/main)
 
