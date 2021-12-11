@@ -7,13 +7,12 @@
 
 - 👯 Meu último projeto foi no NLW [letmeask](https://github.com/carvalho-code/letmeask/tree/main)
 
-- 👾 Acompanhe minhas postagens [https://www.instagram.com/carvalho.code/](https://www.instagram.com/carvalho.code/)
+- 👾 Acompanhe minhas postagens [https://www.linkedin.com/in/jo%C3%A3o-pedro-de-carvalho-256b3b204/](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-carvalho-256b3b204/)
 
 - 📫 Você pode me achar em **frontendcarvalho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/carvalho.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carvalho.code" height="30" width="40" /></a>
 <a href="https://discord.gg/Peter Virote (#6410)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Peter Virote (#6410)" height="30" width="40" /></a>
 </p>
 
